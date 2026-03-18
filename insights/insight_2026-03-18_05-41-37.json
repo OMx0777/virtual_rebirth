@@ -1,0 +1,18 @@
+{
+    "summary": "The raw log contains an audio transcript of a conversation between Om and Sharawani, the creator of the project, with additional visual context describing their environment.",
+    "new_facts": [
+        "Om was wearing a blue shirt",
+        "Om was in a group setting with multiple people"
+    ],
+    "new_preferences": [
+        "Om wants to be the creator of projects",
+        "Om wants to be in control of their own digital twin"
+    ],
+    "new_relationships": {
+        "Sharawani": "Om's creator and project collaborator"
+    },
+    "interview_questions": [
+        "Can you tell me more about your experience with the digital twin project?",
+        "How do you think this digital twin will impact your daily life?"
+    ]
+}

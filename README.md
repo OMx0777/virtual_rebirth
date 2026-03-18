@@ -1,3 +1,11 @@
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
+uvicorn brain_api:app --reload
 Step 1: Create the file
 
 Run this command in your terminal to create the file and open it in nano (or use your favorite code editor like VS Code):

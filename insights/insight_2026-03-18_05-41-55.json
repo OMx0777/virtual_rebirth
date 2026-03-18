@@ -1,0 +1,18 @@
+{
+    "summary": "The raw multimodal log depicts a conversation between Om and a guest, where Om discusses their interests and hobbies, including working with computers and coding. The log also shows images of Om engaging in various activities, such as working on a computer and wearing glasses.",
+    "new_facts": [
+        "Om is interested in coding and working with computers",
+        "Om was wearing glasses"
+    ],
+    "new_preferences": [
+        "Om wants to work with computers more often",
+        "Om prefers a certain color of glasses"
+    ],
+    "new_relationships": {
+        "GuestName": "The guest is a person who is interacting with Om, but their identity and relationship to Om are not specified"
+    },
+    "interview_questions": [
+        "Can you tell me more about what you enjoy about coding and working with computers?",
+        "How often do you wear glasses, and what's your favorite color to wear?"
+    ]
+}

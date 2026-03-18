@@ -1,0 +1,18 @@
+{
+    "summary": "The raw log contains audio and visual context for a recording session where Om is tested for mic quality and voice, with no notable interactions with a guest.",
+    "new_facts": [
+        "Om participated in mic testing",
+        "Om's voice was tested"
+    ],
+    "new_preferences": [
+        "Om is comfortable with the recording setup",
+        "Om prefers a quiet environment"
+    ],
+    "new_relationships": {
+        "None": "No guests are mentioned or interacted with during the recording session."
+    },
+    "interview_questions": [
+        "What was Om's impression of the recording quality?",
+        "Can you describe Om's tone and pitch during the voice test?"
+    ]
+}

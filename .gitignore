@@ -3,3 +3,6 @@ __pycache__/
 temp_videos/
 memory_logs/
 *.mp4
+venv/
+__pycache__/
+live_response.wav
